@@ -1,0 +1,230 @@
+1522290992608	geckodriver	INFO	Listening on 127.0.0.1:58395
+1522290995918	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.mwSmgRtXFXrZ
+1522290996033	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522290996188	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58404
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522290997903	Marionette	INFO	Listening on port 58404
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://boss.t.xqcx.com/usercenter/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522291150401	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1522292429420	geckodriver	INFO	Listening on 127.0.0.1:59367
+1522292432445	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.xcmXxnJ8RxEC
+1522292432458	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522292432490	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59376
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522292433793	Marionette	INFO	Listening on port 59376
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://boss.t.xqcx.com/usercenter/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522312605871	geckodriver	INFO	Listening on 127.0.0.1:64463
+1522312608922	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.lh3AQvRWw8BY
+1522312608934	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522312609043	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64479
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522312610248	Marionette	INFO	Listening on port 64479
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: http://boss.t.xqcx.com/static/js/app.3cc0fa886919da031b95.js, line 1: NS_ERROR_DOM_BAD_DOCUMENT_DOMAIN: Illegal document.domain value
+1522312759773	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1522312806599	geckodriver	INFO	Listening on 127.0.0.1:64717
+1522312809624	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.ygCxEQI90oMO
+1522312809637	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522312809660	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64725
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522312810941	Marionette	INFO	Listening on port 64725
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: http://boss.t.xqcx.com/static/js/app.3cc0fa886919da031b95.js, line 1: NS_ERROR_DOM_BAD_DOCUMENT_DOMAIN: Illegal document.domain value
+1522660100903	geckodriver	INFO	Listening on 127.0.0.1:65217
+1522660103969	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.Sq13V2bX515f
+1522660103983	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522660103999	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65228
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522660105507	Marionette	INFO	Listening on port 65228
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522660227523	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1522735796966	geckodriver	INFO	Listening on 127.0.0.1:59855
+1522735799995	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.tmpRQIMgoHgY
+1522735800011	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522735800030	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59863
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522735801134	Marionette	INFO	Listening on port 59863
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522735900334	geckodriver	INFO	Listening on 127.0.0.1:59915
+1522735903363	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.U1BrHHr0BOOS
+1522735903389	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522735903419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59923
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522735904462	Marionette	INFO	Listening on port 59923
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522736200909	geckodriver	INFO	Listening on 127.0.0.1:60144
+1522736203949	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.oRoBbA7ztKvt
+1522736203963	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522736203991	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60152
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522736205131	Marionette	INFO	Listening on port 60152
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522736739945	geckodriver	INFO	Listening on 127.0.0.1:60658
+1522736742983	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.wCFbjCnu1mDw
+1522736742998	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522736743020	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60668
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522736744188	Marionette	INFO	Listening on port 60668
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522737136172	geckodriver	INFO	Listening on 127.0.0.1:60941
+1522737139198	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.S7kLLo0K5L8B
+1522737139222	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522737139350	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60949
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522737140524	Marionette	INFO	Listening on port 60949
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522737565339	geckodriver	INFO	Listening on 127.0.0.1:61479
+1522737568266	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.55x59dBO3RCd
+1522737568292	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522737568376	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61488
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522737569613	Marionette	INFO	Listening on port 61488
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522737785648	geckodriver	INFO	Listening on 127.0.0.1:61816
+1522737788674	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.nAhI8Hd1DoEI
+1522737788701	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522737788729	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61826
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522737789863	Marionette	INFO	Listening on port 61826
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522806995676	geckodriver	INFO	Listening on 127.0.0.1:52423
+1522806998705	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.FzV4qiFNN9Og
+1522806998725	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522806998765	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52431
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1522807000408	Marionette	INFO	Listening on port 52431
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1522809089089	geckodriver	INFO	Listening on 127.0.0.1:53520
+1522809092095	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.XPIZfoc1dpJK
+1522809092111	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1522809092185	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53528
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1522809093208	Marionette	INFO	Listening on port 53528
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523153510500	geckodriver	INFO	Listening on 127.0.0.1:52680
+1523153513537	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.DC0lQ9rmHr8X
+1523153513562	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523153513722	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52688
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523153515510	Marionette	INFO	Listening on port 52688
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523154425946	geckodriver	INFO	Listening on 127.0.0.1:53493
+1523154428974	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.bhmw6ixBSY6i
+1523154428992	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523154429080	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53503
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523154430282	Marionette	INFO	Listening on port 53503
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.t.xqcx.com/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523183252665	geckodriver	INFO	Listening on 127.0.0.1:64557
+1523183255708	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.Ckc0O73AKf5H
+1523183255721	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523183255752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64565
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523183256864	Marionette	INFO	Listening on port 64565
+1523183275944	geckodriver	INFO	Listening on 127.0.0.1:64575
+1523183278966	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.dWJBE1dq7O59
+1523183278983	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523183279015	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64584
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523183280140	Marionette	INFO	Listening on port 64584
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523183857429	geckodriver	INFO	Listening on 127.0.0.1:64941
+1523183860464	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.jgxlADBBEZ19
+1523183860483	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523183860515	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64949
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523183861673	Marionette	INFO	Listening on port 64949
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523183972485	geckodriver	INFO	Listening on 127.0.0.1:65022
+1523183975516	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.TF09gSzrWxGp
+1523183975540	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523183975562	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65030
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523183976823	Marionette	INFO	Listening on port 65030
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523184057111	geckodriver	INFO	Listening on 127.0.0.1:65072
+1523184060124	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.JIP523S21azC
+1523184060143	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523184060170	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65080
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523184061281	Marionette	INFO	Listening on port 65080
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523239902424	geckodriver	INFO	Listening on 127.0.0.1:57054
+1523239905370	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.GWCCG4QxFIJO
+1523239905390	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523239905560	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57064
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523239906595	Marionette	INFO	Listening on port 57064
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523257488787	geckodriver	INFO	Listening on 127.0.0.1:62284
+1523257491815	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.X7uWbX36WjHU
+1523257491832	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523257492051	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62292
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523257493215	Marionette	INFO	Listening on port 62292
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523411207518	geckodriver	INFO	Listening on 127.0.0.1:64059
+1523411210667	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.uU2kiiJXNlLS
+1523411210694	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523411210868	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64068
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523411212703	Marionette	INFO	Listening on port 64068
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523411950727	geckodriver	INFO	Listening on 127.0.0.1:64335
+1523411953747	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.uP2reVCNLtDL
+1523411953777	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523411953827	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64344
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523411954942	Marionette	INFO	Listening on port 64344
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: chrome://global/content/bindings/resizer.xml, line 19: Error: Permission denied to access property "documentElement"
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1523412882004	geckodriver	INFO	Listening on 127.0.0.1:64644
+1523412885048	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.Sf2YPxM6469p
+1523412885068	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523412885088	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64652
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523412886187	Marionette	INFO	Listening on port 64652
+1523412889353	geckodriver	INFO	Listening on 127.0.0.1:64661
+1523412892369	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.qzMyMCGtY693
+1523412892385	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1523412892413	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64671
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1523412893565	Marionette	INFO	Listening on port 64671
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: chrome://global/content/bindings/resizer.xml, line 19: Error: Permission denied to access property "documentElement"
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1524106437527	geckodriver	INFO	Listening on 127.0.0.1:53429
+1524106440632	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.8UCyUxw0VDax
+1524106440658	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1524106440787	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53437
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1524106442707	Marionette	INFO	Listening on port 53437
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: chrome://global/content/bindings/resizer.xml, line 19: Error: Permission denied to access property "documentElement"
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1524122364440	geckodriver	INFO	Listening on 127.0.0.1:52432
+1524122367467	mozprofile::profile	INFO	Using profile path C:\Users\David\AppData\Local\Temp\rust_mozprofile.p9Azxi5uQVEl
+1524122367490	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1524122367672	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52474
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs
+1524122368805	Marionette	INFO	Listening on port 52474
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: chrome://global/content/bindings/resizer.xml, line 19: Error: Permission denied to access property "documentElement"
+JavaScript warning: https://gw.alipayobjects.com/as/g/datavis/g6/1.1.3/index.js, line 3: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://47.98.18.190:58888/uc/static/js/vendor.2fdc4cc748a343a7d000.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
